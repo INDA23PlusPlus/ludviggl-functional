@@ -1,6 +1,6 @@
 
 -- Kattis problem: The Plank
--- Submission ID: 12849824
+-- Submission ID: 12850833
 
 {-
     Problem: Determine the number of ways to construct a plank
